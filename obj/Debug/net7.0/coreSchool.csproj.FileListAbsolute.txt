@@ -1,0 +1,15 @@
+C:\platzi\coreSchool\bin\Debug\net7.0\coreSchool.exe
+C:\platzi\coreSchool\bin\Debug\net7.0\coreSchool.deps.json
+C:\platzi\coreSchool\bin\Debug\net7.0\coreSchool.runtimeconfig.json
+C:\platzi\coreSchool\bin\Debug\net7.0\coreSchool.dll
+C:\platzi\coreSchool\bin\Debug\net7.0\coreSchool.pdb
+C:\platzi\coreSchool\obj\Debug\net7.0\coreSchool.csproj.AssemblyReference.cache
+C:\platzi\coreSchool\obj\Debug\net7.0\coreSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\platzi\coreSchool\obj\Debug\net7.0\coreSchool.AssemblyInfoInputs.cache
+C:\platzi\coreSchool\obj\Debug\net7.0\coreSchool.AssemblyInfo.cs
+C:\platzi\coreSchool\obj\Debug\net7.0\coreSchool.csproj.CoreCompileInputs.cache
+C:\platzi\coreSchool\obj\Debug\net7.0\coreSchool.dll
+C:\platzi\coreSchool\obj\Debug\net7.0\refint\coreSchool.dll
+C:\platzi\coreSchool\obj\Debug\net7.0\coreSchool.pdb
+C:\platzi\coreSchool\obj\Debug\net7.0\coreSchool.genruntimeconfig.cache
+C:\platzi\coreSchool\obj\Debug\net7.0\ref\coreSchool.dll
