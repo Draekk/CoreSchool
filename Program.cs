@@ -1,18 +1,22 @@
 ﻿// See https://aka.ms/new-console-template for more information
-CoreSchool school = new CoreSchool();
-school.name = "Platzi Academy";
-school.address = "En internet";
-school.fYear = 2012;
-school.ceo = "Freddy Vega";
+CoreSchool school = new CoreSchool("Platzi Academy", "Web", 2012, "Freddy Vega");
 Console.WriteLine("Timbre");
 school.timbrar();
 
 class CoreSchool
 {
-    public string name {get; set;}
-    public string address {get; set;}
-    public int fYear {get; set;}
-    public string ceo {get; set;}
+    string name;
+    string address;
+    int fYear;
+    string ceo;
+
+    public CoreSchool(string name, string address, int fYear, string ceo)
+    {
+        this.name = name;
+        this.address = address;
+        this.fYear = fYear;
+        this.ceo = ceo;
+    }
 
     public void timbrar(){
         //Todo
