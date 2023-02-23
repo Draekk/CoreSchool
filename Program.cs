@@ -3,6 +3,7 @@ CoreSchool school = new CoreSchool();
 school.name = "Platzi Academy";
 school.address = "En internet";
 school.fYear = 2012;
+school.ceo = "Freddy Vega";
 Console.WriteLine("Timbre");
 school.timbrar();
 
